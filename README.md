@@ -1,11 +1,8 @@
 ![Header](https://github.com/dkn1fe/dkn1fe/blob/main/assets/banner.jpg)
 
-
-
 ## Hello, my name Ivan 👋
 
 ### I'm 16 years old, I'm a Frontend Developer from Belarus
-
 
 ### Skills
 
@@ -22,11 +19,14 @@
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
 ![Git](https://skillicons.dev/icons?i=git)
 
-
-
 ### My Contacts
 
+Telegram - [TelegramLink](https://t.me/dknife3145)
 
-[TelegramLink](https://t.me/dknife3145)
-Discord - _karpenka_  
+---
+
+Discord - _karpenka_
+
+---
+
 Mail - dknifeb@mail.ru
