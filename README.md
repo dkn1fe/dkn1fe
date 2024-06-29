@@ -26,7 +26,7 @@
 
 ### My Contacts
 
-Tg - dknife3145
-Discord - karpenka
-mail - dknifeb@mail.ru
 
+[TelegramLink](https://t.me/dknife3145)
+Discord - _karpenka_  
+Mail - dknifeb@mail.ru
