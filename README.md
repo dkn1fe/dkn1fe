@@ -2,7 +2,7 @@
 
 ## Hello, my name Ivan 👋
 
-### I'm 16 years old, I'm a Frontend Developer from Belarus
+### I'm a Frontend Developer from Belarus
 
 ### Skills
 
@@ -18,6 +18,7 @@
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
 ![Git](https://skillicons.dev/icons?i=git)
+
 
 ### My Contacts
 
